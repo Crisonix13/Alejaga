@@ -6,3 +6,4 @@ integrative technology, which describes an educational environment where a compu
 
 team members:
 *Asilanom Rice Senday
+*Ivygail B. Soberano
