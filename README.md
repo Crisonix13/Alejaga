@@ -8,4 +8,4 @@ team members:
 *Asilanom Rice Senday
 *Regelyn Mae Guihama
 *Ivygail B. Soberano
-
+*Alejaga, Abdul Aziz
