@@ -7,3 +7,4 @@ Project description : integrative technology, which describes an educational env
 
 team members:
 *Asilanom Rice Senday
+*Regelyn Mae Guihama
